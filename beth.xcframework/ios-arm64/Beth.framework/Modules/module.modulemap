@@ -1,0 +1,11 @@
+framework module Beth {
+  umbrella header "Beth.h"
+  export *
+
+  module * { export * }
+}
+
+module Beth.Swift {
+  header "Beth-Swift.h"
+  requires objc
+}

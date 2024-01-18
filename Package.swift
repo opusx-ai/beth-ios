@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Beth",
-            url: "https://github.com/opusx-ai/beth-ios/releases/download/v1.0.0/beth-ios.xcframework.zip",
-            checksum: "99b1a96d0ca7d0b3db6b9b18d79f43872cc9a0632936b8f59f5233c501017489")
+            url: "https://github.com/opusx-ai/beth-ios/releases/download/v1.0.1/beth.xcframework.zip",
+            checksum: "8d721582c8bdd1865e86c070d849671d91988483f38aa51b9b0e4ba8212e5ac8")
     ]
 )
