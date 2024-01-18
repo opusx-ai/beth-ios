@@ -6,18 +6,14 @@ import PackageDescription
 let package = Package(
     name: "beth-ios",
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "beth-ios",
             targets: ["beth-ios"]),
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
-        .target(
-            name: "beth-ios"),
-        .testTarget(
-            name: "beth-iosTests",
-            dependencies: ["beth-ios"]),
+        .binaryTarget(
+            name: "beth-ios",
+            url: "https://github.com/opusx-ai/beth-ios/releases/download/v1.0.0/beth-ios.xcframework.zip",
+            checksum: "99b1a96d0ca7d0b3db6b9b18d79f43872cc9a0632936b8f59f5233c501017489")
     ]
 )
