@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Beth-Swift.h</key>
 		<data>
-		fuyseZGjIPG06BJEbtMGc2X+swY=
+		5FQTtUlsiIhEWmbMFtiyJGuLBAk=
 		</data>
 		<key>Headers/Beth.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/Beth.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		U1ws/eDDxX20uLOFYi9jbHRPHpg=
+		qQ2b2A6lSTTLjYJ/+ytJoqRPvhc=
 		</data>
 		<key>Modules/Beth.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		louk+iLZL/JIJxOBZ+ANX+O6ZcY=
+		THSFOkBkFyYDUwd48s6FFN1nS/Q=
 		</data>
 		<key>Modules/Beth.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/Beth.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		louk+iLZL/JIJxOBZ+ANX+O6ZcY=
+		THSFOkBkFyYDUwd48s6FFN1nS/Q=
 		</data>
 		<key>Modules/Beth.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JLwx9tuFKX+/xodHsoBoawn+tPI=
+		7BKmJhyBIJr1Z132ABOXVeCTXmY=
 		</data>
 		<key>Modules/Beth.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		U1ws/eDDxX20uLOFYi9jbHRPHpg=
+		qQ2b2A6lSTTLjYJ/+ytJoqRPvhc=
 		</data>
 		<key>Modules/Beth.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		6imZd7qc6HkOIL/xdvnm0pXG2tw=
+		X1YAXCEZaNZnIAMyg+uaB8lFZcM=
 		</data>
 		<key>Modules/Beth.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/Beth.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		6imZd7qc6HkOIL/xdvnm0pXG2tw=
+		X1YAXCEZaNZnIAMyg+uaB8lFZcM=
 		</data>
 		<key>Modules/Beth.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		05dDSL8Rtu8qBdstibKN2NbfQcc=
+		6xINZgcRNNR76xEPXor8FtPPc/0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RZsV0KTMYzyjnQ4eIFaZvQ8bSgG/Xu8USWqHJxW6thY=
+			5mj5uYSpeYKJbS70hW96sB9kqz2MFiAdSB0L4i362R0=
 			</data>
 		</dict>
 		<key>Headers/Beth.h</key>
@@ -85,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GjDbLy1UZsiY/KZ0VPOIm7UJzLJhCnNVuJbInb7JGQg=
+			MD5jUkXSRQhHBMfUlowlueH96YEqagro/qcKPKyXJag=
 			</data>
 		</dict>
 		<key>Modules/Beth.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RYdUmrXykjbVpKWoGPusdSwyKo1+F0w/tDeSU59vHFg=
+			PyvD8XH4J4OQ5PMmJyG1gJM+SjvEZXTMneVoVeFj6ew=
 			</data>
 		</dict>
 		<key>Modules/Beth.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -106,28 +106,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RYdUmrXykjbVpKWoGPusdSwyKo1+F0w/tDeSU59vHFg=
+			PyvD8XH4J4OQ5PMmJyG1gJM+SjvEZXTMneVoVeFj6ew=
 			</data>
 		</dict>
 		<key>Modules/Beth.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dlmogtzBWs4Ox9W0Ksohl1r9OMrVFA+Wy6g+25d7R6Y=
+			v1pEnizrL35uopMycRFh0fFvnevxg1yT0+ZD9E1ETK4=
 			</data>
 		</dict>
 		<key>Modules/Beth.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GjDbLy1UZsiY/KZ0VPOIm7UJzLJhCnNVuJbInb7JGQg=
+			MD5jUkXSRQhHBMfUlowlueH96YEqagro/qcKPKyXJag=
 			</data>
 		</dict>
 		<key>Modules/Beth.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sxsqtdJRQiux5X+Gf6jmlg85j+ldGquLmLtkySZrxB4=
+			bGvmwKtTA6L9+wlcwNn3djk8uAMDVuuPdHm3QvYVrgw=
 			</data>
 		</dict>
 		<key>Modules/Beth.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -141,14 +141,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sxsqtdJRQiux5X+Gf6jmlg85j+ldGquLmLtkySZrxB4=
+			bGvmwKtTA6L9+wlcwNn3djk8uAMDVuuPdHm3QvYVrgw=
 			</data>
 		</dict>
 		<key>Modules/Beth.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2/xERQlw2h8Rl6frpY4Y4nxvY+ocM1lrtgqsvFxu4K8=
+			A5AFmiYwCrrNfaMi3SM7Y68+X9ImZI6hx6gIkSR0aMo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

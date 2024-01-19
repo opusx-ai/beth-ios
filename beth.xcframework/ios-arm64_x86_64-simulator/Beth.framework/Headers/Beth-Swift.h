@@ -299,6 +299,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 @class NSString;
+@class UIViewController;
 
 SWIFT_CLASS("_TtC4Beth4Beth")
 @interface Beth : NSObject
@@ -314,6 +315,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class) BOOL isDevelopment;)
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSString * _Nullable page;)
 + (NSString * _Nullable)page SWIFT_WARN_UNUSED_RESULT;
 + (void)setPage:(NSString * _Nullable)value;
++ (void)presentFromVCWithVc:(UIViewController * _Nullable)vc;
++ (void)present;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -626,6 +629,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 @class NSString;
+@class UIViewController;
 
 SWIFT_CLASS("_TtC4Beth4Beth")
 @interface Beth : NSObject
@@ -641,6 +645,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class) BOOL isDevelopment;)
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSString * _Nullable page;)
 + (NSString * _Nullable)page SWIFT_WARN_UNUSED_RESULT;
 + (void)setPage:(NSString * _Nullable)value;
++ (void)presentFromVCWithVc:(UIViewController * _Nullable)vc;
++ (void)present;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

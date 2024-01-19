@@ -14,6 +14,8 @@ import _SwiftConcurrencyShims
   @objc public static var sessionToken: Swift.String?
   @objc public static var isDevelopment: Swift.Bool
   @objc public static var page: Swift.String?
+  @objc public static func presentFromVC(vc: UIKit.UIViewController? = nil)
+  @objc public static func present()
   @objc override dynamic public init()
   @objc deinit
 }

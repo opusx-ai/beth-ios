@@ -508,6 +508,68 @@
             ]
           },
           {
+            "kind": "Function",
+            "name": "presentFromVC",
+            "printedName": "presentFromVC(vc:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Beth@objc(cs)Beth(cm)presentFromVCWithVc:",
+            "mangledName": "$s4BethAAC13presentFromVC2vcySo16UIViewControllerCSg_tFZ",
+            "moduleName": "Beth",
+            "static": true,
+            "objc_name": "presentFromVCWithVc:",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "present",
+            "printedName": "present()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@Beth@objc(cs)Beth(cm)present",
+            "mangledName": "$s4BethAAC7presentyyFZ",
+            "moduleName": "Beth",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init()",
@@ -796,119 +858,119 @@
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 4627,
+      "offset": 4641,
       "length": 34,
       "value": "\"API Key or Session Token not set\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 4717,
+      "offset": 4731,
       "length": 51,
       "value": "\"https:\/\/iframe2.beth-ai.chat\/ios.html?a=\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 4767,
+      "offset": 4781,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 4955,
+      "offset": 4969,
       "length": 20,
       "value": "\"&s=\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 4974,
+      "offset": 4988,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 5161,
+      "offset": 5175,
       "length": 19,
       "value": "\"&p=\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 5179,
+      "offset": 5193,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 5257,
+      "offset": 5271,
       "length": 16,
       "value": "\"&e=development\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 5374,
+      "offset": 5388,
       "length": 13,
       "value": "\"Invalid URL\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 5741,
+      "offset": 5755,
       "length": 14,
       "value": "\"closeWebView\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 5829,
+      "offset": 5843,
       "length": 19,
       "value": "\"setConversationID\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
-      "offset": 5990,
+      "offset": 6004,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "FloatLiteral",
-      "offset": 6654,
+      "offset": 6668,
       "length": 4,
       "value": "10.0"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
-      "offset": 6885,
+      "offset": 6899,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
-      "offset": 7132,
+      "offset": 7146,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
-      "offset": 7197,
+      "offset": 7211,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
-      "offset": 7228,
+      "offset": 7242,
       "length": 1,
       "value": "0"
     }
