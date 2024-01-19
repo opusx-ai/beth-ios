@@ -778,296 +778,303 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
       "offset": 283,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 466,
       "length": 31,
       "value": "\"BethUnreadMessageCountUpdated\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 524,
       "length": 7,
       "value": "\"count\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
       "offset": 375,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
       "offset": 936,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
       "offset": 970,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 1065,
       "length": 19,
       "value": "\"^[0-9a-fA-F]{24}$\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 1396,
       "length": 32,
       "value": "\"ConversationID not set not set\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 1493,
       "length": 54,
       "value": "\"wss:\/\/ws.beth-ai.chat\/conversation\/\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 1546,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 1599,
       "length": 58,
       "value": "\"wss:\/\/dev-ws.beth-ai.chat\/conversation\/\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 1656,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
       "offset": 1943,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 2135,
       "length": 38,
       "value": "\"Error in receiving message: \""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 2172,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 2422,
       "length": 40,
       "value": "\"Received a message that's not a string\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
       "offset": 2923,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 2973,
       "length": 34,
       "value": "\"Error decoding message: \""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 3006,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
       "offset": 3111,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
       "offset": 3211,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
       "offset": 3335,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 3867,
       "length": 14,
       "value": "\"closeWebView\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
       "offset": 3937,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
       "offset": 3990,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 4035,
       "length": 19,
       "value": "\"setConversationID\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 3482,
       "length": 20,
       "value": "\"Beth.ScriptMessageHandler\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 4334,
       "length": 34,
       "value": "\"API Key or Session Token not set\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 4424,
       "length": 51,
       "value": "\"https:\/\/iframe2.beth-ai.chat\/ios.html?a=\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 4474,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 4662,
       "length": 20,
       "value": "\"&s=\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 4681,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 4868,
       "length": 19,
       "value": "\"&p=\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 4886,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 4964,
       "length": 16,
       "value": "\"&e=development\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 5081,
       "length": 13,
       "value": "\"Invalid URL\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 5448,
       "length": 14,
       "value": "\"closeWebView\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
       "offset": 5536,
       "length": 19,
       "value": "\"setConversationID\""
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
       "offset": 5697,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
+      "kind": "StringLiteral",
+      "offset": 6262,
+      "length": 10,
+      "value": "\"Beth url\""
+    },
+    {
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
-      "offset": 6561,
+      "offset": 6606,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
-      "offset": 6611,
+      "offset": 6656,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/justinkiang\/GolandProjects\/Beth\/Beth\/Beth.swift",
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
-      "offset": 6642,
+      "offset": 6687,
       "length": 1,
       "value": "0"
     }

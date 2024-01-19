@@ -6,8 +6,8 @@ xcodebuild clean archive -scheme "Beth" -configuration "Release" -sdk iphonesimu
 
 
 
-xcodebuild -create-xcframework -framework ios.xcarchive/Products/Library/Frameworks/beth_ios_framework.framework -framework simulator.xcarchive/Products/Library/Frameworks/beth_ios_framework.framework -output beth-ios.xcframework
+xcodebuild -create-xcframework -framework ios.xcarchive/Products/Library/Frameworks/Beth.framework -framework simulator.xcarchive/Products/Library/Frameworks/Beth.framework -output beth.xcframework
 
 
-zip -r beth-ios.xcframework.zip beth-ios.xcframework
-swift package compute-checksum beth-ios.xcframework.zip
+zip -r beth.xcframework.zip beth.xcframework
+swift package compute-checksum beth.xcframework.zip
