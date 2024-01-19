@@ -12,11 +12,8 @@ import _SwiftConcurrencyShims
 @objc @_inheritsConvenienceInitializers @objcMembers public class Beth : ObjectiveC.NSObject {
   @objc public static var apiKey: Swift.String?
   @objc public static var sessionToken: Swift.String?
-  @objc public static var webViewController: UIKit.UIViewController?
   @objc public static var isDevelopment: Swift.Bool
   @objc public static var page: Swift.String?
-  @objc public static func startWebSocketConnection()
-  @objc public static func presentWebView()
   @objc override dynamic public init()
   @objc deinit
 }

@@ -299,7 +299,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 @class NSString;
-@class UIViewController;
 
 SWIFT_CLASS("_TtC4Beth4Beth")
 @interface Beth : NSObject
@@ -309,17 +308,12 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSString * _Nullable api
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSString * _Nullable sessionToken;)
 + (NSString * _Nullable)sessionToken SWIFT_WARN_UNUSED_RESULT;
 + (void)setSessionToken:(NSString * _Nullable)value;
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) UIViewController * _Nullable webViewController;)
-+ (UIViewController * _Nullable)webViewController SWIFT_WARN_UNUSED_RESULT;
-+ (void)setWebViewController:(UIViewController * _Nullable)value;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class) BOOL isDevelopment;)
 + (BOOL)isDevelopment SWIFT_WARN_UNUSED_RESULT;
 + (void)setIsDevelopment:(BOOL)value;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSString * _Nullable page;)
 + (NSString * _Nullable)page SWIFT_WARN_UNUSED_RESULT;
 + (void)setPage:(NSString * _Nullable)value;
-+ (void)startWebSocketConnection;
-+ (void)presentWebView;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -632,7 +626,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 @class NSString;
-@class UIViewController;
 
 SWIFT_CLASS("_TtC4Beth4Beth")
 @interface Beth : NSObject
@@ -642,17 +635,12 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSString * _Nullable api
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSString * _Nullable sessionToken;)
 + (NSString * _Nullable)sessionToken SWIFT_WARN_UNUSED_RESULT;
 + (void)setSessionToken:(NSString * _Nullable)value;
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) UIViewController * _Nullable webViewController;)
-+ (UIViewController * _Nullable)webViewController SWIFT_WARN_UNUSED_RESULT;
-+ (void)setWebViewController:(UIViewController * _Nullable)value;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class) BOOL isDevelopment;)
 + (BOOL)isDevelopment SWIFT_WARN_UNUSED_RESULT;
 + (void)setIsDevelopment:(BOOL)value;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, copy) NSString * _Nullable page;)
 + (NSString * _Nullable)page SWIFT_WARN_UNUSED_RESULT;
 + (void)setPage:(NSString * _Nullable)value;
-+ (void)startWebSocketConnection;
-+ (void)presentWebView;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
