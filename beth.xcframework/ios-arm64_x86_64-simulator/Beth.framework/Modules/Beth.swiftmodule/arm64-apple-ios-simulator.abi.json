@@ -772,6 +772,20 @@
             "mangledName": "$ss28CustomDebugStringConvertibleP"
           }
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Beth"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Beth"
       }
     ],
     "json_format_version": 8
@@ -808,275 +822,310 @@
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
-      "offset": 936,
+      "offset": 1044,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
-      "offset": 970,
+      "offset": 1078,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 1065,
+      "offset": 1173,
       "length": 19,
       "value": "\"^[0-9a-fA-F]{24}$\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 1396,
+      "offset": 1504,
       "length": 32,
       "value": "\"ConversationID not set not set\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 1493,
+      "offset": 1601,
       "length": 54,
       "value": "\"wss:\/\/ws.beth-ai.chat\/conversation\/\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 1546,
+      "offset": 1654,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 1599,
+      "offset": 1707,
       "length": 58,
       "value": "\"wss:\/\/dev-ws.beth-ai.chat\/conversation\/\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 1656,
+      "offset": 1764,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
-      "offset": 1943,
+      "offset": 2051,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 2135,
+      "offset": 2243,
       "length": 38,
       "value": "\"Error in receiving message: \""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 2172,
+      "offset": 2280,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 2422,
+      "offset": 2530,
       "length": 40,
       "value": "\"Received a message that's not a string\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
-      "offset": 2923,
+      "offset": 3031,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 2973,
+      "offset": 3081,
       "length": 34,
       "value": "\"Error decoding message: \""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 3006,
+      "offset": 3114,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
-      "offset": 3111,
+      "offset": 3219,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
-      "offset": 3211,
+      "offset": 3319,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
-      "offset": 3335,
+      "offset": 3443,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 3867,
+      "offset": 3975,
       "length": 14,
       "value": "\"closeWebView\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
-      "offset": 3937,
+      "offset": 4045,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
-      "offset": 3990,
+      "offset": 4098,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 4035,
+      "offset": 4143,
       "length": 19,
       "value": "\"setConversationID\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 3482,
+      "offset": 3590,
       "length": 20,
       "value": "\"Beth.ScriptMessageHandler\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 4334,
+      "offset": 4442,
       "length": 34,
       "value": "\"API Key or Session Token not set\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 4424,
+      "offset": 4532,
       "length": 57,
       "value": "\"https:\/\/iframe2.beth-ai.chat\/ios.html?kk=yy&a=\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 4480,
+      "offset": 4588,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 4748,
+      "offset": 4856,
       "length": 20,
       "value": "\"&s=\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 4767,
+      "offset": 4875,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 4954,
+      "offset": 5062,
       "length": 19,
       "value": "\"&p=\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 4972,
+      "offset": 5080,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 5050,
+      "offset": 5158,
       "length": 16,
       "value": "\"&e=development\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 5167,
+      "offset": 5275,
       "length": 13,
       "value": "\"Invalid URL\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 5534,
+      "offset": 5642,
       "length": 14,
       "value": "\"closeWebView\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "StringLiteral",
-      "offset": 5622,
+      "offset": 5730,
       "length": 19,
       "value": "\"setConversationID\""
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
-      "offset": 5783,
+      "offset": 5891,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "FloatLiteral",
-      "offset": 6447,
+      "offset": 6555,
       "length": 4,
       "value": "10.0"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
-      "offset": 6723,
+      "offset": 6831,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "BooleanLiteral",
-      "offset": 6773,
+      "offset": 6881,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/Beth.swift",
       "kind": "IntegerLiteral",
-      "offset": 6804,
+      "offset": 6912,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/NotifcationPlayer.swift",
+      "kind": "StringLiteral",
+      "offset": 251,
+      "length": 14,
+      "value": "\"notification\""
+    },
+    {
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/NotifcationPlayer.swift",
+      "kind": "StringLiteral",
+      "offset": 282,
+      "length": 5,
+      "value": "\"mp3\""
+    },
+    {
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/NotifcationPlayer.swift",
+      "kind": "StringLiteral",
+      "offset": 314,
+      "length": 28,
+      "value": "\"Unable to find sound file.\""
+    },
+    {
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/NotifcationPlayer.swift",
+      "kind": "StringLiteral",
+      "offset": 530,
+      "length": 47,
+      "value": "\"Error initializing the audio player: \""
+    },
+    {
+      "filePath": "\/Users\/justinkiang\/XcodeProjects\/beth-ios-source\/Beth\/NotifcationPlayer.swift",
+      "kind": "StringLiteral",
+      "offset": 576,
+      "length": 2,
+      "value": "\"\""
     }
   ]
 }
